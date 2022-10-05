@@ -1,0 +1,9 @@
+INFO  11:44:21 Application started. Press Ctrl+C to shut down.
+INFO  11:44:21 Hosting environment: Development
+INFO  11:44:21 Content root path: C:\Users\DHISHA\HotelBookingManagement\HotelMicroservice
+INFO  11:47:11 Application started. Press Ctrl+C to shut down.
+INFO  11:47:11 Hosting environment: Development
+INFO  11:47:11 Content root path: C:\Users\DHISHA\HotelBookingManagement\HotelMicroservice
+INFO  11:47:14 GetHotels Method Called
+INFO  11:47:19 GetHotels Method Called
+INFO  11:48:00 GetHotels Method Called
